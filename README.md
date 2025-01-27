@@ -1,5 +1,3 @@
-# data_viz_r
-
 # Análise de Vendas - Visualização de Dados com R
 
 Este projeto utiliza a linguagem R para realizar uma análise de vendas de uma loja fictícia. A análise abrange visualizações interativas e estáticas para entender o desempenho de vendas por mês, categoria de produtos e trimestre, segmentado por tipo de pagamento.
